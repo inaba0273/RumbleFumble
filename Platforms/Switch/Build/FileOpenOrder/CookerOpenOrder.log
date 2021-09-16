@@ -16,13 +16,13 @@
 "../../../Engine/Content/BufferVisualization/CustomDepth.uasset" 15
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 16
 "../../../Engine/Content/BufferVisualization/CustomDepthWorldUnits.uasset" 17
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 18
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 19
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 20
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 21
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 22
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 23
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 19
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 20
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 21
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 22
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 23
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 24
 "../../../Engine/Content/BufferVisualization/CustomStencil.uasset" 25
 "../../../Engine/Content/BufferVisualization/FinalImage.uasset" 26
 "../../../Engine/Content/BufferVisualization/LightingModel.uasset" 27
@@ -51,9 +51,9 @@
 "../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 50
 "../../../Engine/Content/EditorMaterials/Cross.uasset" 51
 "../../../Engine/Content/EditorMaterials/Cross_Mat.uasset" 52
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 53
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 54
-"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 55
+"../../../Engine/Content/EditorResources/T_EditorHelp.uasset" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Sign.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/Round.uasset" 55
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 56
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 57
 "../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 58
@@ -322,9 +322,9 @@
 "../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 321
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 322
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 323
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 324
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/BP_Button.uasset" 325
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/BP_GameInstance.uasset" 326
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/BP_Button.uasset" 324
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/BP_GameInstance.uasset" 325
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 326
 "C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/MainMenu/GameReady_UI.uasset" 327
 "C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/MainMenu/ModeSelect_UI.uasset" 328
 "C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/MainMenu/MainMenu_UI.uasset" 329
@@ -361,116 +361,132 @@
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 360
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 361
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 362
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 363
-"../../../Engine/Content/Maps/Entry.umap" 364
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh10_PhysicsAsset.uasset" 365
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Texture/DefaultPolyart_Tex.uasset" 366
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/DefaultPolyart_MAT.uasset" 367
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh01_Skeleton.uasset" 368
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh10_SK.uasset" 369
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh09_PhysicsAsset.uasset" 370
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh09_SK.uasset" 371
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh08_PhysicsAsset.uasset" 372
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh08_SK.uasset" 373
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh06_PhysicsAsset.uasset" 374
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh06_SK.uasset" 375
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh04_PhysicsAsset.uasset" 376
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh04_SK.uasset" 377
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh03_PhysicsAsset.uasset" 378
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh03_SK.uasset" 379
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh07_PhysicsAsset.uasset" 380
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh07_SK.uasset" 381
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh01_PhysicsAsset.uasset" 382
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh01_SK.uasset" 383
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/PlayerNameUI.uasset" 384
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/Tutorial/TutorialUI.uasset" 385
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/LoseItemUI.uasset" 386
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/M2.uasset" 387
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/M1.uasset" 388
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/BoxingGloves_BoxingGloves_001.uasset" 389
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_AttackItem.uasset" 390
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/PlayerMenu_UI.uasset" 391
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/CustomController.uasset" 392
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/GetItemUI.uasset" 393
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Textures/Compass_Texture.uasset" 394
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Materials/Compass_Mat.uasset" 395
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Meshes/Compass_Mesh.uasset" 396
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 397
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_TraitorDetector.uasset" 398
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_ItemSpawnPoint.uasset" 399
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 400
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 401
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Materials/SphereMat.uasset" 402
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Textures/T_FireTexture_01.uasset" 403
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Materials/M_Smoke_01.uasset" 404
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 405
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Materials/M_Radial_Gradient.uasset" 406
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Textures/T_FireTexture_02.uasset" 407
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Materials/M_Flame_03.uasset" 408
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Effects/P_FireExplosion_Medium.uasset" 409
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/StarterContent/Textures/T_Spark_Core.uasset" 410
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/StarterContent/Particles/Materials/M_Spark.uasset" 411
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/StarterContent/Particles/P_BombFuse.uasset" 412
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Textures/Bomb_Texture.uasset" 413
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Materials/Bomb_Mat.uasset" 414
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Meshes/Bomb_Mesh.uasset" 415
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_Bomb.uasset" 416
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/vibration.uasset" 417
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_FixedCamera.uasset" 418
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_GameMode.uasset" 419
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/MainMenu/WinMessage_UI.uasset" 420
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/HealthUI.uasset" 421
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Run01FWD_Anim.uasset" 422
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Idle01_Anim.uasset" 423
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/GrabIdle_Anim.uasset" 424
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/AnimBP_Player.uasset" 425
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Idle03_Anim.uasset" 426
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Die01_Anim.uasset" 427
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/GetHit_Anim.uasset" 428
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/AnimMontage_PlayerGetHit.uasset" 429
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/DealDamageNotify_Atk_2.uasset" 430
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Attack03_Anim.uasset" 431
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/AnimMontage_PlayerAtk_2.uasset" 432
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/DealDamageNotify_Atk_1.uasset" 433
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Attack01_Anim.uasset" 434
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/AnimMontage_PlayerAtk_1.uasset" 435
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_Player.uasset" 436
-"../../../Engine/Content/BasicShapes/Plane.uasset" 437
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 438
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_MatchDevice.uasset" 439
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/T_FloorSquare_M1_N.uasset" 440
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Pillar_Solid/T_PillarSolid_R.uasset" 441
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Pillar_Solid/T_PillarSolid_N.uasset" 442
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Belt/T_Circle_M.uasset" 443
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset" 444
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 445
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Material/M_Plastic.uasset" 446
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/MI_Floor_Square_M1.uasset" 447
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/T_FloorSquare_MO_N.uasset" 448
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Material/T_StylizedGrunge_06_R.uasset" 449
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/MI_Floor_Square_M0.uasset" 450
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/SM_Floor_Square.uasset" 451
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Circle/T_FloorCircle_N.uasset" 452
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Edge/MI_Floor_Edge.uasset" 453
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Edge/SM_Floor_Edge.uasset" 454
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/Level1_BuiltData.uasset" 455
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 456
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 457
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 458
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 459
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 460
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 461
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 462
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 463
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 464
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/Level1.umap" 465
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/Level2_BuiltData.uasset" 466
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Bounce/T_CircleBounce_M1_N.uasset" 467
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Bounce/MI_Circle_Bounce_M1.uasset" 468
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Bounce/T_CircleBounce_M0_N.uasset" 469
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Bounce/MI_Circle_Bounce_M0.uasset" 470
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Meshes/LevelMesh/Level2_Mesh.uasset" 471
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_Mesh_Level2.uasset" 472
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/Level2.umap" 473
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/MainMenuLevel_BuiltData.uasset" 474
-"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/MainMenuLevel.umap" 475
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 363
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 364
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 365
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 366
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 367
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 368
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 369
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 370
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 371
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 372
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 373
+"../../../Engine/Content/Maps/Entry.umap" 374
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/Tutorial/TutorialUI.uasset" 375
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/LoseItemUI.uasset" 376
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/GetItemUI.uasset" 377
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/PlayerMenu_UI.uasset" 378
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/CustomController.uasset" 379
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Textures/Compass_Texture.uasset" 380
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Materials/Compass_Mat.uasset" 381
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Meshes/Compass_Mesh.uasset" 382
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 383
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_TraitorDetector.uasset" 384
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_ItemSpawnPoint.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 386
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 387
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Materials/SphereMat.uasset" 388
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Textures/T_FireTexture_01.uasset" 389
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Materials/M_Smoke_01.uasset" 390
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 391
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Materials/M_Radial_Gradient.uasset" 392
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Textures/T_FireTexture_02.uasset" 393
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Materials/M_Flame_03.uasset" 394
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/StylizedVFX_Fire/Effects/P_FireExplosion_Medium.uasset" 395
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/StarterContent/Textures/T_Spark_Core.uasset" 396
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/StarterContent/Particles/Materials/M_Spark.uasset" 397
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/StarterContent/Particles/P_BombFuse.uasset" 398
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Textures/Bomb_Texture.uasset" 399
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Materials/Bomb_Mat.uasset" 400
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/PickupItemsMB/Meshes/Bomb_Mesh.uasset" 401
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_Bomb.uasset" 402
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/M2.uasset" 403
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/M1.uasset" 404
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/BoxingGloves_BoxingGloves_001.uasset" 405
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_AttackItem.uasset" 406
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/vibration.uasset" 407
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_FixedCamera.uasset" 408
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_GameMode.uasset" 409
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/MainMenu/WinMessage_UI.uasset" 410
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/HealthUI.uasset" 411
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Texture/DefaultPolyart_Tex.uasset" 412
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/DefaultPolyart_MAT.uasset" 413
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh01_Skeleton.uasset" 414
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/ModularPart/Tail01_SK.uasset" 415
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/ModularPart/Mouth05_SK.uasset" 416
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/ModularPart/Glove01_SK.uasset" 417
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/ModularPart/Eye01_SK.uasset" 418
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/ModularPart/Ear01_SK.uasset" 419
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/ModularPart/Bodypart05_SK.uasset" 420
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Texture/MaskTintPolyart_Tex.uasset" 421
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Texture/Mask03_Tex.uasset" 422
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Texture/Mask02_Tex.uasset" 423
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Texture/Mask01_Tex.uasset" 424
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 425
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/PolyartMaskTint_MAT.uasset" 426
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/MaterialInstances/PlayerMaterial/PlayerMaterial_Inst_8.uasset" 427
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/MaterialInstances/PlayerMaterial/PlayerMaterial_Inst_7.uasset" 428
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/MaterialInstances/PlayerMaterial/PlayerMaterial_Inst_6.uasset" 429
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/MaterialInstances/PlayerMaterial/PlayerMaterial_Inst_5.uasset" 430
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/MaterialInstances/PlayerMaterial/PlayerMaterial_Inst_4.uasset" 431
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/MaterialInstances/PlayerMaterial/PlayerMaterial_Inst_3.uasset" 432
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/MaterialInstances/PlayerMaterial/PlayerMaterial_Inst_2.uasset" 433
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Material/MaterialInstances/PlayerMaterial/PlayerMaterial_Inst.uasset" 434
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Idle03_Anim.uasset" 435
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/OneMeshCharacter/OneMesh01_PhysicsAsset.uasset" 436
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Mesh/ModularPart/Body01_SK.uasset" 437
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Die01_Anim.uasset" 438
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/GetHit_Anim.uasset" 439
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/AnimMontage_PlayerGetHit.uasset" 440
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Attack03_Anim.uasset" 441
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/DealDamageNotify_Atk_2.uasset" 442
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/AnimMontage_PlayerAtk_2.uasset" 443
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Attack01_Anim.uasset" 444
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/DealDamageNotify_Atk_1.uasset" 445
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/AnimMontage_PlayerAtk_1.uasset" 446
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Run01FWD_Anim.uasset" 447
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/Idle01_Anim.uasset" 448
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/PartyMonsterRumblePA/Animation/GrabIdle_Anim.uasset" 449
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/AnimBP_Player.uasset" 450
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/UI/PlayerNameUI.uasset" 451
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_Player.uasset" 452
+"../../../Engine/Content/BasicShapes/Plane.uasset" 453
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 454
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_MatchDevice.uasset" 455
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/T_FloorSquare_M1_N.uasset" 456
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Pillar_Solid/T_PillarSolid_R.uasset" 457
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Pillar_Solid/T_PillarSolid_N.uasset" 458
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Belt/T_Circle_M.uasset" 459
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 460
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/3PointLevels.uasset" 461
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Material/M_Plastic.uasset" 462
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/MI_Floor_Square_M1.uasset" 463
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/T_FloorSquare_MO_N.uasset" 464
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Material/T_StylizedGrunge_06_R.uasset" 465
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/MI_Floor_Square_M0.uasset" 466
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Square/SM_Floor_Square.uasset" 467
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Circle/T_FloorCircle_N.uasset" 468
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Edge/MI_Floor_Edge.uasset" 469
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Floors/Floor_Edge/SM_Floor_Edge.uasset" 470
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/Level1_BuiltData.uasset" 471
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 472
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 473
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 474
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 475
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 476
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 477
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 478
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 479
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 480
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/Level1.umap" 481
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Bounce/T_CircleBounce_M1_N.uasset" 482
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Bounce/MI_Circle_Bounce_M1.uasset" 483
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Bounce/T_CircleBounce_M0_N.uasset" 484
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Assets/Inflatable_Parkour/Props/Circle_Bounce/MI_Circle_Bounce_M0.uasset" 485
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Meshes/LevelMesh/Level2_Mesh.uasset" 486
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Blueprint/BP_Mesh_Level2.uasset" 487
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/Level2_BuiltData.uasset" 488
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/Level2.umap" 489
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/MainMenuLevel_BuiltData.uasset" 490
+"C:/Users/holic/Documents/Unreal Projects/RumbleFumble/Content/Level/MainMenuLevel.umap" 491
