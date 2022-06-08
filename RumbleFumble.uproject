@@ -1,6 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{D75DF2EC-4C4F-D1E7-7DE4-CAAC87A5F437}",
+	"EngineAssociation": "{96F540C4-42DD-99D5-8948-F7A7450F1086}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"TargetPlatforms": [
+		"Switch"
+	]
 }
